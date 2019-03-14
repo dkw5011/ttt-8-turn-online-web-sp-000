@@ -35,4 +35,4 @@ move(board, index, player = "X")
 else turn(board)
 end
 end
-
+display_board(board)
